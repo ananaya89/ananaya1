@@ -2,9 +2,5 @@ hii h r u?
 hello everyone
 my name is avni
 good morning 
-<<<<<<< HEAD
 im a CSE student
 in chitkara university
-=======
-
->>>>>>> parent of c6e9aa8 (commit)
